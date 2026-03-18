@@ -103,22 +103,6 @@ The **Smart Targeted Spray Assistance System** integrates **Machine Learning wit
 
 ---
 
-## 🎥 Demo  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400"/>
-</p>
-
-👉 Add your demo video link here  
-
----
-
-## 📸 Prototype Images  
-
-👉 Add your real project images here  
-
----
-
 ## ✨ Key Highlights  
 
 ✔ Combines ML + Embedded Systems  
