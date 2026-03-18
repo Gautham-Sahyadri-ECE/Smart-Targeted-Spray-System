@@ -1,4 +1,3 @@
-# Smart-Targeted-Spray-System
 # 🌱 Smart Targeted Spray Assistance System  
 
 <p align="center">
