@@ -136,7 +136,7 @@ server.begin();
 }
 
 
-/* -------- LOOP -------- */
+
 
 void loop(){
 server.handleClient();
